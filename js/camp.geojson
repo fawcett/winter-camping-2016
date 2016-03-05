@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Big Tent",
+        "name": "bigtent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.89241117238998,
+          47.8680830341816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Patrick's Hammock",
+        "name": "hammock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8921429514885,
+          47.86794448538171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Three Mummies",
+        "name": "bivy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.89254528284073,
+          47.86856165445885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Small Tent",
+        "name": "smalltent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.89247554540634,
+          47.86783472567989
+        ]
+      }
+    }
+  ]
+}
